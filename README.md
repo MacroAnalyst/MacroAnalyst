@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am Weijie Chen. My Github username has been remamed, please visite: <a href = 'https://github.com/weijie-chen'>https://github.com/weijie-chen</a> 
 <!--
 **MacroAnalyst/MacroAnalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
